@@ -1,0 +1,12 @@
+Index: fish.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/fish.html b/fish.html
+new file mode 100644
+--- /dev/null	(date 1702918260686)
++++ b/fish.html	(date 1702918260686)
+@@ -0,0 +1,1 @@
++Hello, this is a fish
+\ No newline at end of file
